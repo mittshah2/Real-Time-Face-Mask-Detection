@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>159.PNG</filename>
+	<path>C:\Users\mitts\Desktop\object\mask_detection\images\159.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>149</width>
+		<height>159</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>71</ymin>
+			<xmax>110</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+</annotation>
