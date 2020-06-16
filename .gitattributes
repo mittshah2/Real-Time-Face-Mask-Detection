@@ -2,3 +2,4 @@
 *.ckpt filter=lfs diff=lfs merge=lfs -text
 model.ckpt-8895 filter=lfs diff=lfs merge=lfs -text
 model.ckpt filter=lfs diff=lfs merge=lfs -text
+.h5 filter=lfs diff=lfs merge=lfs -text
